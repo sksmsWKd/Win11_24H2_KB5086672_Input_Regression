@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Win11_24H2(KB5086672)_Input_Regression/Win11_24H2(KB5086672)_Input_Regression.vcxproj" />
+</Solution>
