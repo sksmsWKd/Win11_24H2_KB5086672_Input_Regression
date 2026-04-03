@@ -24,11 +24,18 @@ Press ESC to exit.
 (Currently monitors Left Ctrl and A keys only)
 
 
-## Result
+## Result (Press Left Ctrl)
 
 KB5086672(26100.8117)
 
 
 https://github.com/user-attachments/assets/6b537596-5303-4e15-aab8-7139919e1677
+
+
+KB5079473(26200.8037)
+
+
+
+https://github.com/user-attachments/assets/1bedaf2f-cb68-49a4-881d-bc09563ef41e
 
 
