@@ -39,3 +39,6 @@ KB5079473(26200.8037)
 https://github.com/user-attachments/assets/1bedaf2f-cb68-49a4-881d-bc09563ef41e
 
 
+Check more info here:
+
+https://www.reddit.com/r/sysadmin/comments/1sbyuhq/found_technical_proof_for_the_win11_kb5086672/
